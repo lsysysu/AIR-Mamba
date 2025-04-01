@@ -1,2 +1,2 @@
 # AIR-Mamba
-This is the official code repository for "Domain-Adaptive UAV Recognition Using IR-UWB Radar and a Lightweight Mamba-Based Network"
+AIR-Mamba is a lightweight SSM-based architecture with ​real-time domain adaptation capability, specifically designed for cross-environment robustness in IR-UWB radar-based UAV recognition. This repository serves as the official implementation of the paper "Domain-Adaptive UAV Recognition Using IR-UWB Radar and a Lightweight Mamba-Based Network". Code will be released upon publication.
