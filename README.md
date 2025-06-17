@@ -102,6 +102,6 @@ Please adhere to the licenses of any third-party datasets or codebases used.
 
 ## 🧭 Acknowledgements
 
-* [FOI Radar Dataset](https://www.foi.se/en/our-offer/research-projects/radar-classification-of-small-aerial-targets.html)
+* [FOI Radar Dataset](https://zenodo.org/records/5896641)
 * [Mamba: Linear-Time Selective SSMs](https://github.com/state-spaces/mamba)
 
