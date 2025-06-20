@@ -70,7 +70,7 @@ The dataset will be made public following paper acceptance.
 
 > Training scripts and pretrained weights will be released after acceptance.
 
-* `train_LightMv2.py`: Main training loop with domain adaptation options
+* `train.py`: Main training loop with domain adaptation options
 * `datasets/`: Preprocessing scripts and dataset format converters
 * `models/`: Contains AirMamba and baseline model definitions
 * `eval.py`: Evaluate classification and domain adaptation accuracy
