@@ -45,7 +45,7 @@ This project evaluates cross-environment radar-based UAV recognition on two data
 We use the 77GHz FMCW radar dataset from the Swedish Defence Research Agency (FOI):
 
 * Title: *Radar measurements on drones, birds and humans with a 77GHz FMCW sensor*
-* Link: [FOI Radar Dataset](https://www.foi.se/en/our-offer/research-projects/radar-classification-of-small-aerial-targets.html)
+* Link: [FOI Radar Dataset](https://zenodo.org/records/5896641)
 * Classes: D1–D6 drone types
 * Format: `.npy` files with complex-valued segments (5 × 256)
 * Preprocessing: Converted to 256×256 RGB images using real/imag/magnitude
