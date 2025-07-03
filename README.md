@@ -57,8 +57,8 @@ We introduce a new dataset **UWB-Drone4Env** (*Ultra-Wideband Radar Dataset for 
 
 * Radar Type: IR-UWB
 * Classes: 6 UAV types
-* Environments: Urban, Forest, Ocean, Desert
-* Format: 2D radar TR images (256×256)
+* Environments: Urban, suburban, marine, microwave anechoic chamber
+* Format: Complex-valued raw ADC data (I/Q samples)
 * Purpose: Evaluate domain generalization and adaptation
 
 The dataset will be made public following paper acceptance.
