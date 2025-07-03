@@ -12,7 +12,7 @@
 ## 🌟 Highlights
 
 - Lightweight SSM backbone based on the Mamba architecture
-- Supports domain-adaptive training across **urban**, **suburban**, **marine **, and **microwave anechoic chamber** environments
+- Supports domain-adaptive training across **urban**, **suburban**, **marine**, and **microwave anechoic chamber** environments
 - Specially tailored for **IR-UWB radar UAV detection**
 
 ---
