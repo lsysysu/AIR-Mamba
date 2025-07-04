@@ -1,0 +1,1 @@
+The dataset contains ultra-wideband radar echo data in four environments, which are raw ADC sampled data and will be published at a later date.
